@@ -1,14 +1,56 @@
-## Hi there 👋
+# 👋 Merhaba, ben xFrightfull
 
-**xFrightfull/xFrightfull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 💻 Genç bir web geliştirici | 🚀 Sürekli öğrenen | 🎮 Minecraft tutkunu
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🧑‍💻 Hakkımda
+
+Ben **Murad**, 17 yaşındayım ve aktif olarak web geliştirme ile ilgileniyorum.
+Modern, şık ve kullanıcı dostu projeler geliştirmeyi seviyorum.
+
+Şu anda geliştirme aşamasında olan ilk büyük projem üzerinde çalışıyorum:
+
+### 🌐 CubeNest
+
+🔗 https://cubenest.xyz/about/
+
+CubeNest, Minecraft odaklı bir platformdur.
+Sitede modlar, araçlar ve Minecraft deneyimini geliştiren içerikler sunmayı hedefliyorum.
+
+---
+
+## ⚡ Yeteneklerim
+
+* 🧱 **HTML** → Üst düzey
+* 🎨 **CSS** → Orta seviye
+* ⚙️ **JavaScript** → Orta (aktif öğreniyorum)
+* 📦 **JSON** → Başlangıç
+
+---
+
+## 🚀 Hedeflerim
+
+* Daha gelişmiş web projeleri üretmek
+* JavaScript ve backend tarafında kendimi geliştirmek
+* Büyük ve aktif kullanılan platformlar oluşturmak
+
+---
+
+## 📫 Bana Ulaş
+
+* 💻 GitHub: https://github.com/xfrightfull
+* 💬 Discord: xfrightfull
+
+---
+
+## 🌟 Not
+
+Bu profil ve projelerim sürekli gelişmektedir.
+Yeni özellikler ve projeler için takipte kalmayı unutma!
+
+---
+
+## ⭐ Destek
+
+Eğer projelerimi beğenirsen GitHub’da ⭐ bırakmayı unutma!
