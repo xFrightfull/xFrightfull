@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 Hakkımda
 
-Ben **Murad**, 17 yaşındayım ve aktif olarak web geliştirme ile ilgileniyorum.
+Ben **xFrightfull**, 17 yaşındayım ve aktif olarak web geliştirme ile ilgileniyorum.
 Modern, şık ve kullanıcı dostu projeler geliştirmeyi seviyorum.
 
 Şu anda geliştirme aşamasında olan ilk büyük projem üzerinde çalışıyorum:
