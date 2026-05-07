@@ -6,6 +6,8 @@
 
 ## 🧑‍💻 Hakkımda
 
+* GitHub Pages: https://xfrightfull.github.io
+
 Ben **xFrightfull**, 17 yaşındayım ve aktif olarak web geliştirme ile ilgileniyorum.
 Modern, şık ve kullanıcı dostu projeler geliştirmeyi seviyorum.
 
@@ -14,6 +16,7 @@ Modern, şık ve kullanıcı dostu projeler geliştirmeyi seviyorum.
 ### 🌐 CubeNest
 
 🔗 https://cubenest.xyz/about/
+
 
 CubeNest, Minecraft odaklı bir platformdur.
 Sitede modlar, araçlar ve Minecraft deneyimini geliştiren içerikler sunmayı hedefliyorum.
